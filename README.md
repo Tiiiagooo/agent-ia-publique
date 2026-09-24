@@ -1,6 +1,8 @@
 # 🏠 Agent IA — Assistant Conversationnel pour Conciergeries & Locations Courte Durée
 
-> Un agent IA multi-canal capable de renseigner les prospects, gérer les réservations et servir les clients d'une conciergerie, en s'appuyant sur les données réelles d'un Channel Manager — sans solliciter le propriétaire.
+🔒 Projet actuellement privé. Je partage publiquement son état d'avancement et pourrai progressivement rendre certains éléments accessibles.
+
+Un agent IA multi-canal capable de renseigner les prospects, de gérer les réservations et d'accompagner les clients d'une conciergerie, en s'appuyant sur les données réelles d'un Channel Manager — sans solliciter le propriétaire.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![LLM](https://img.shields.io/badge/LLM-Agent_IA-green)
